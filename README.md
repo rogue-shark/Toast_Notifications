@@ -1,14 +1,14 @@
-<h1 align="center"></h1>
+<h1 align="center">Toast Browser Notifications</h1>
 
 
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://rogue-shark.github.io/Toast_Notifications">
       D E M O
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/rogue-shark/Toast_Notifications">
       Solution
   </h3>
 </div>
